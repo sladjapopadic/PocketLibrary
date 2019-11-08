@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PocketLibrary</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="facebook_app_id">415152939106873</string>
+    <string name="fb_login_protocol_scheme">fb415152939106873</string>
+    <string name="registerPass"> Password</string>
+    <string name="signIn">Already have account? Sign in here</string>
+    <string name="registerButton">Register</string>
+    <string name="loginButton">Login</string>
+    <string name="signUp">Don\'t have account? Sign up here</string>
+    <string name="password"> Password</string>
+    <string name="email"> Email</string>
+    <string name="name"> Name</string>
+</resources>
